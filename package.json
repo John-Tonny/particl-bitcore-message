@@ -20,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/particl/particl-bitcore-message.git"
+    "url": "https://github.com/John-Tonny/particl-bitcore-message.git"
   },
   "dependencies": {
-    "particl-bitcore-lib": "git://github.com/particl/particl-bitcore-lib"
+    "particl-bitcore-lib": "git://github.com/John-Tonny/particl-bitcore-lib"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
